@@ -7,7 +7,7 @@ Over 20+ years in the industry (DevOps → MLOps → AI Evaluation), I’ve deli
 ---
 
 ## 🚀 What I Work On
-- **AI Evaluation Platform And Enterprise Applications(Adobe)**  
+- **AI Evaluation Platform And Enterprise Applications**  
   End-to-end automation for GenAI Q&A evaluation using **Prefect, Databricks, W&B**, and scalable metric validation.  
   Includes baseline validation, batch flow execution, zero-click evaluation, and quality-gates.
 
