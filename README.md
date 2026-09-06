@@ -15,10 +15,4 @@ I build and explore systems for evaluating Generative AI and AI agents.
 
 ---
 
-### ⚡ Currently exploring
-
-`DeepEval` · `Ragas` · `Agent Evaluation` · `LLM-as-a-Judge` · `LangGraph`
-
----
-
 > Evaluating AI before AI evaluates us.
